@@ -4,6 +4,21 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+## Dependencies
+
+This project uses the following dependencies:
+
+- `react`: ^18.0.0
+- `react-dom`: ^18.0.0
+- `react-router-dom`: ^6.0.0
+- `@mui/material`: ^5.0.0
+- `typescript`: ^4.0.0
+
+To install all dependencies, run:
+
+
+### `npm install`
+
 In the project directory, you can run:
 
 ### `npm start`
@@ -13,6 +28,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
+
 
 ### `npm test`
 
